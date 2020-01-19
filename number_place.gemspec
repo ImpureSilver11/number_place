@@ -8,13 +8,13 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{}
   spec.description   = %q{For more information https://en.wikipedia.org/wiki/Sudoku}
-  # spec.homepage      = "gemのWebサイトまたは公開リポジトリのURLをここに配置します。"
+  spec.homepage      = "https://github.com/ImpureSilver11/number_place"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
-  spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
+  # spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
 
-  # spec.metadata["homepage_uri"] = spec.homepage
+  spec.metadata["homepage_uri"] = spec.homepage
 
 
   # Specify which files should be added to the gem when it is released.

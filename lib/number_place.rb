@@ -1,17 +1,3 @@
 require "number_place/version"
+require "number_place/number_place"
 
-module NumberPlace
-  class << self
-    def hoge
-      'self'
-    end
-  end
-  
-  class NumberPlace
-    def test
-      'hoge'
-    end
-  end
-  class Error < StandardError; end
-  # Your code goes here...
-end
