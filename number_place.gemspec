@@ -3,7 +3,7 @@ require_relative 'lib/number_place/version'
 Gem::Specification.new do |spec|
   spec.name          = "number_place"
   spec.version       = NumberPlace::VERSION
-  spec.authors       = ["take1931032@gmail.com"]
+  spec.authors       = ["Masahiro Takahashi"]
   spec.email         = ["take1931032@gmail.com"]
 
   spec.summary       = %q{}
